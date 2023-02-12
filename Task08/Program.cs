@@ -16,7 +16,8 @@ while (count <= number)
         count++;
     }
     else
-    {
-        count++;
-    }
+    // {
+    //     count++;
+    // }
+    count++;
 }
