@@ -15,7 +15,7 @@ while (count <= number)
         Console.Write(count + " ");
         count++;
     }
-    else
+    // else
     // {
     //     count++;
     // }
