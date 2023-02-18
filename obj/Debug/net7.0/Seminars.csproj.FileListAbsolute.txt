@@ -1,5 +1,0 @@
-J:\YandexDisk\GB\C#\Seminars\obj\Debug\net7.0\Seminars.csproj.AssemblyReference.cache
-J:\YandexDisk\GB\C#\Seminars\obj\Debug\net7.0\Seminars.GeneratedMSBuildEditorConfig.editorconfig
-J:\YandexDisk\GB\C#\Seminars\obj\Debug\net7.0\Seminars.AssemblyInfoInputs.cache
-J:\YandexDisk\GB\C#\Seminars\obj\Debug\net7.0\Seminars.AssemblyInfo.cs
-J:\YandexDisk\GB\C#\Seminars\obj\Debug\net7.0\Seminars.csproj.CoreCompileInputs.cache
