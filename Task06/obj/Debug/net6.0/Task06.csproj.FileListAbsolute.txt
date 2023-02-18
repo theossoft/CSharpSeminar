@@ -1,0 +1,15 @@
+J:\YandexDisk\GB\C#\Seminars\Task06\bin\Debug\net6.0\Task06.exe
+J:\YandexDisk\GB\C#\Seminars\Task06\bin\Debug\net6.0\Task06.deps.json
+J:\YandexDisk\GB\C#\Seminars\Task06\bin\Debug\net6.0\Task06.runtimeconfig.json
+J:\YandexDisk\GB\C#\Seminars\Task06\bin\Debug\net6.0\Task06.dll
+J:\YandexDisk\GB\C#\Seminars\Task06\bin\Debug\net6.0\Task06.pdb
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.csproj.AssemblyReference.cache
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.AssemblyInfoInputs.cache
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.AssemblyInfo.cs
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.csproj.CoreCompileInputs.cache
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.dll
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\refint\Task06.dll
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.pdb
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\Task06.genruntimeconfig.cache
+J:\YandexDisk\GB\C#\Seminars\Task06\obj\Debug\net6.0\ref\Task06.dll
