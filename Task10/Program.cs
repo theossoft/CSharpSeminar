@@ -13,10 +13,10 @@
 // Пример идеального решения
 int Prompt(string message)
 {
-    System.Console.Write(message);
+    Console.Write(message);
     string value = Console.ReadLine();
     int result = Convert.ToInt32(value);
-    return;
+    return result;
 }
 
 int number = Prompt("Введите трехзначное число > ");
