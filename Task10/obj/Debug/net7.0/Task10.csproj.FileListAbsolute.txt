@@ -1,0 +1,15 @@
+J:\YandexDisk\GB\C#\Seminars\Task10\bin\Debug\net7.0\Task10.exe
+J:\YandexDisk\GB\C#\Seminars\Task10\bin\Debug\net7.0\Task10.deps.json
+J:\YandexDisk\GB\C#\Seminars\Task10\bin\Debug\net7.0\Task10.runtimeconfig.json
+J:\YandexDisk\GB\C#\Seminars\Task10\bin\Debug\net7.0\Task10.dll
+J:\YandexDisk\GB\C#\Seminars\Task10\bin\Debug\net7.0\Task10.pdb
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.csproj.AssemblyReference.cache
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.GeneratedMSBuildEditorConfig.editorconfig
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.AssemblyInfoInputs.cache
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.AssemblyInfo.cs
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.csproj.CoreCompileInputs.cache
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.dll
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\refint\Task10.dll
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.pdb
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\Task10.genruntimeconfig.cache
+J:\YandexDisk\GB\C#\Seminars\Task10\obj\Debug\net7.0\ref\Task10.dll
