@@ -1,0 +1,15 @@
+J:\YandexDisk\GB\C#\Seminars\Task13\bin\Debug\net7.0\Task13.exe
+J:\YandexDisk\GB\C#\Seminars\Task13\bin\Debug\net7.0\Task13.deps.json
+J:\YandexDisk\GB\C#\Seminars\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+J:\YandexDisk\GB\C#\Seminars\Task13\bin\Debug\net7.0\Task13.dll
+J:\YandexDisk\GB\C#\Seminars\Task13\bin\Debug\net7.0\Task13.pdb
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.dll
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\refint\Task13.dll
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.pdb
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+J:\YandexDisk\GB\C#\Seminars\Task13\obj\Debug\net7.0\ref\Task13.dll
