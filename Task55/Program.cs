@@ -49,15 +49,15 @@ int[,] ReplaceRowsAndColumns(int[,] matrix) // С добавлением мас�
     return temp;
 }
 
-void ReplaceRowsAndColumns1(int[,] matrix) // Без добавления массива
+void ReplaceRowsAndColumnsVoid(int[,] matrix) // Без добавления массива (только квадратная)
 {
-for (int i = 0; i < matrix.GetLength(0); i++)
+    for (int i = 0; i < matrix.GetLength(0) - 1; i++) // Добавляя -1 последний элемент не меняется сам с собой
     {
-        for (int j = i; j < matrix.GetLength(1); j++)
+        for (int j = i + 1; j < matrix.GetLength(1); j++) // Добавляя +1 пропускаем первый элемент
         {
-            int temp = matrix[i,j];
-            matrix[i,j] = matrix[j,i];
-            matrix[j,i] = temp;
+            int temp = matrix[i, j];
+            matrix[i, j] = matrix[j, i];
+            matrix[j, i] = temp;
         }
     }
 }
@@ -65,5 +65,5 @@ int[,] newMatrix = CreateMatrixRndInt(4, 4, 0, 10);
 PrintMatrix(newMatrix);
 Console.WriteLine("--------------------------");
 // PrintMatrix(ReplaceRowsAndColumns(newMatrix));
-ReplaceRowsAndColumns1(newMatrix);
+ReplaceRowsAndColumnsVoid(newMatrix);
 PrintMatrix(newMatrix);
