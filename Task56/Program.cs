@@ -40,7 +40,43 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
+void PrintArray(int[] arr)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write(arr[i] + " ");
+    }
+}
+
+int ReturnLineWithMinSumElements(int[,] matrix)
+{
+    int[] tempArray = new int[matrix.GetLength(0)];
+    int minLineIndex = int.MaxValue;
+    int minIndex = int.MaxValue;
+
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            tempArray[i] = tempArray[i] + matrix[i, j];
+        }
+    }
+
+    for (int i = 0; i < tempArray.Length; i++)
+    {
+        if (tempArray[i] < minLineIndex)
+        {
+            minLineIndex = tempArray[i];
+            minIndex = i;
+        }
+    }
+    return minIndex;
+}
+
 
 Console.WriteLine("Вывод случайно сгенерированной матрицы:");
 int[,] matrix = CreateMatrixRndInt(4, 4, 0, 10);
 PrintMatrix(matrix);
+int index = ReturnLineWithMinSumElements(matrix);
+System.Console.WriteLine($"Индекс строки с минимальной суммуй = {index}");
+
