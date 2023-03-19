@@ -46,15 +46,17 @@ int[,] MultiplyTwoMatrix(int[,] matrixA, int[,] matrixB)
     int[,] multiplyMatrix = new int[matrixA.GetLength(0), matrixB.GetLength(1)];
     for (int i = 0; i < multiplyMatrix.GetLength(0); i++)
     {
-        for (int j = 0; multiplyMatrix.GetLength(1); j++)
+        int sum = 0;
+        for (int j = 0; j < multiplyMatrix.GetLength(1); j++)
         {
-multiplyMatrix[i,j] = (matrixA[jMatrixA, iMatrixA] * matrixB[iMatrixB, jMatrixB]);
+            sum = sum + matrixA[i, j] * matrixB[j, i];
         }
+        
     }
     return multiplyMatrix;
 }
 
-System.Console.WriteLine("Сгенерированы две случайные матрицы:");
+Console.WriteLine("Сгенерированы две случайные матрицы:");
 int[,] matrixA = CreateMatrixRndInt(4, 4, 0, 10);
 PrintMatrix(matrixA);
 Console.WriteLine("---------------------");
