@@ -4,3 +4,11 @@
 
 // N = 5 -> "5, 4, 3, 2, 1"
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
+
+string SumNumber(int n)
+{
+    if (n > 0) return $"{n} " + SumNumber(n - 1);
+    else return String.Empty;
+}
+System.Console.WriteLine(SumNumber(10));
+
